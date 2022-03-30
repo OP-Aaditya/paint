@@ -1,0 +1,21 @@
+.body_background{
+    background-image: url(bg1.jpg); 
+    background-position:center;
+    background-size:cover;
+}
+#my_canvas{
+    background-color: antiquewhite;
+  border-style: ridge;
+border-width: 3;
+}
+button{
+    color:green;
+    padding-top: 4px;
+    padding-bottom:4px;
+    padding-left:4px;
+    padding-right:4px;
+}
+
+input{
+    margin-top: 20px;
+}
